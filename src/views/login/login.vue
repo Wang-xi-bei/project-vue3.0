@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">登录</div>
+  <div class="hello">登录1</div>
   <span>{{ $store.state.name }}</span>
   <el-button type="info">Info</el-button>
   <el-button type="success">Info</el-button>
